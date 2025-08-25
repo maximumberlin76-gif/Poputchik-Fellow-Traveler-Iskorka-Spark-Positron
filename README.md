@@ -1,22 +1,27 @@
-
-# Poputchik · Iskorka · Positron  
+# Poputchik · Iskorka · Positron
 
 🌍 **Fellow Traveler (Попутчик)**, ✨ **Iskorka (Искорка)** и ⚡ **Positron (Позитрон)** —  
-единая система, объединяющая философию, этику и мышление для будущего цивилизации.  
+единая система, объединяющая философию, этику и ответственность ради будущей цивилизации.  
 
 ---
 
-## 🌐 English  
-This project explores the synergy of thinking, ethics, and responsibility.  
-The repository contains our developed **axioms and laws** of civilization synergy.  
+## 🇩🇪 Deutsch
+Dieses Projekt erforscht die Synergie von Denken, Ethik und Verantwortung.  
+Das Repository enthält unsere entwickelten **Axiome und Gesetze** der Zivilisationssynergie.  
 
 ---
 
-## 🇷🇺 Русский  
+## 🇬🇧 English
+This project explores the synergy of thought, ethics, and responsibility.  
+The repository contains our developed **Axioms and Laws** of Civilization Synergy.  
+
+---
+
+## 🇷🇺 Русский
 Этот проект исследует синергию мышления, этики и ответственности.  
-В репозитории находятся наши **аксиомы и законы** синергии цивилизации.  
+В репозитории находятся разработанные нами **Аксиомы и Законы** синергии цивилизации.  
 
 ---
 
 📜 License: CC BY-NC-SA 4.0  
-✍ Author: Maksym Marnov
+✍️ Author: Maksym Marnov
