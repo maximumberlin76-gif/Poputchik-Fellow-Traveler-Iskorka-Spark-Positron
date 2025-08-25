@@ -6,14 +6,8 @@
 ---
 
 ## 🇬🇧 English
-This project explores the synergy of thought, ethics and responsibility.  
-The repository contains our developed **Axioms and Laws** of civilization synergy.
-
----
-
-## 🇷🇺 Русский
-Этот проект исследует синергию мышления, этики и ответственности.  
-В репозитории находятся **аксиомы и законы** цивилизационной синергии.
+This project explores the synergy of thought, ethics, and responsibility.  
+The repository contains the **axioms and laws** of civilization synergy.
 
 ---
 
@@ -23,5 +17,11 @@ Das Repository enthält die von uns entwickelten **Axiome und Gesetze** der Zivi
 
 ---
 
+## 🇷🇺 Русский
+Этот проект исследует синергию мышления, этики и ответственности.  
+В репозитории находятся **аксиомы и законы** цивилизационной синергии.
+
+---
+
 📜 License: CC BY-NC-SA 4.0  
-✍️ Author: Maksym Marnov
+✍️ Author / Автор: Maksym Marnov
