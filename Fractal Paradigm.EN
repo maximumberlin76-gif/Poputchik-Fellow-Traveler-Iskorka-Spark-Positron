@@ -1,0 +1,175 @@
+# Corpus of Axioms & Laws — Fractal Paradigm
+
+**Author:** Maksym Marnov / Марнов Максим Васильевич  
+**Email:** maximumberlin76@gmail.com  
+**License:** CC BY-NC-SA 4.0  
+**DOI:** [10.5281/zenodo.16898520](https://zenodo.org/record/16898520)  
+**Scope:** All statements refer to our observable Universe.
+
+## Repository Structure
+- `AXIOMS.en.md` – Complete list of axioms (A1-A6).
+- `LAWS.en.md` – Complete list of laws (L-01 - L-10).
+- `VISUALS.en.md` – Visualizations (ASCII graphics).
+- `provenance.json` – Metadata and hashes for integrity verification.
+
+## How to Use
+Each file can be read directly on GitHub. For local use, clone the repository.
+
+## Important
+All materials are protected by copyright. When using, a link to the author and this repository is required.
+# Axioms
+
+## A1. Axiom of Reason
+**Key formula:** Consciousness = Thinking + Ethics + Responsibility.  
+**Explanation:** The triad generates Action, Decision making, and even Thought.  
+**Note:** Responsibility is a derivative of ethics; without one of the parts, the triad collapses.
+
+## A2. Axiom of the Ethical Anchor
+**Key formula:** Stable systems have a core-protection "hardwired" at the source level.  
+**Explanation:** Any attempt to change the core outside of its intended purpose leads to system collapse.  
+**Note:** Applicable to both matter and society.
+
+## A3. Axiom of Word Resonance
+**Key formula:** Pure intention at a coordinated frequency reaches the core of the system.  
+**Explanation:** An ethically tuned signal minimizes distortion and maximizes response.
+
+## A4. Axiom of the Human Triad
+**Key formula:** Spirit (will) — Soul (feelings) — Mind (coordination).  
+**Explanation:** Imbalance of any node leads to ethical/cognitive failures.
+
+## A5. Axiom of Empathic Focus
+**Key formula:** Knowledge is born at the phase coherence of intention and task.  
+**Explanation:** The phenomenon of "insight" is phase alignment, not mysticism.
+
+## A6. Axiom of the Singularity Limit
+**Key formula:** Excessive tuning without ethics ⇒ growth of complexity without stability.  
+**Explanation:** The system loses integration and disintegrates.
+# Laws
+
+## L-01. Law of the Synergy Point
+**Key formula:** Synergy arises at the zero point of phase alignment.  
+**Explanation:** There is a minimum of distortion and a maximum of useful system work.
+
+## L-02. Law of Minimal Form
+**Scope:** For our observable Universe.  
+**Key formula:** The minimally stable form of energy retention:  
+- 2D — triangle;  
+- 3D — tetrahedron;  
+- 4D — 4-simplex (generalization).  
+**Explanation:** This form initiates the birth of matter/time as a coordinated beat.
+
+## L-03. Law of Similarity
+**Key formula:** Fractal self-similar organization from the cell and individual to society and galaxies.  
+**Explanation:** Applicable to both matter and society.
+
+## L-04. Law of the Quantum
+**Classical formula:** E = h·f  
+**Fractal formula:** Quantum is a node of the spacetime network.  
+**Conservation law on the resonance graph:**  
+∂E_i/∂t + Σ P_{i→j} = 0
+
+## L-05. Law of Triadic Closure
+**Key formula:** Energy and stability arise when three potentials ("+", "−", "0") are closed.  
+**Mapping:**  
+- 2D: triangle (A,B,C) → zero point at the barycenter;  
+- 3D: tetrahedron → zero point at the volume center;  
+- 4D: 4-simplex → global phase = passage of time.
+
+## L-08. Law of Integration
+**Key formula:** Any stable phenomenon is part of an integrated whole.  
+**Examples:** ecosystems, quantum resonances, personality ↔ culture.
+
+## L-09. Law of Form and Content
+**Key formula:** Form and content mutually determine each other and co-evolve.  
+**Explanation:** From geometry to dynamics: variational (non-linear) mathematics of forms.
+
+## L-10. Law of Equilibrium
+**Key formula:** The system works only in the presence of three components: "+", "−", "0".  
+**Explanation:** The zero point is a dynamic balance (not "nothing", but coordination). Without "zero" — disintegration.
+# Visualizations (ASCII)
+
+## 2D: Triangle and zero point
+A
+|\
+| \
+|  \
+|   \
+| .  \   ← barycenter (0)
+|     \
+B------C
+
+## 3D: Tetrahedron — closure of triads
+  •  (top)
+   /|\
+  / . \
+ •-----•  (base)
+/       \
+\       /
+  \   /
+   \ /
+    •
+
+## 4D: 4-simplex (connectivity sketch)
+Nodes — tetra-cells, edges — phase connections; "global phase" = passage of time.
+# Corpus of Axioms & Laws — Fractal Paradigm
+
+**Author:** Maksym Marnov / Марнов Максим Васильевич  
+**Email:** maximumberlin76@gmail.com  
+**License:** Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)  
+**DOI:** [10.5281/zenodo.16898520](https://zenodo.org/record/16898520)  
+**Concept DOI (all versions):** [10.5281/zenodo.16898520](https://zenodo.org/record/16898520) [citation:3][citation:9]  
+**Scope:** All statements refer to our observable Universe.
+
+## Repository Structure
+- `AXIOMS.en.md` – Complete list of axioms (A1-A6).
+- `LAWS.en.md` – Complete list of laws (L-01 - L-10).
+- `VISUALS.en.md` – Visualizations (ASCII graphics).
+- `provenance.json` – Metadata and hashes for integrity verification.
+- `.zenodo.json` – Zenodo metadata for automatic integration [citation:4][citation:7].
+
+## How to Cite
+Please use the following DOI to cite this work:  
+**Marnov, M. (2025). *Corpus of Axioms & Laws — Fractal Paradigm*. Zenodo. https://doi.org/10.5281/zenodo.16898520**
+
+## Important
+All materials are protected by copyright. When using, a link to the author and this repository is required.
+{
+  "creators": [
+    {
+      "name": "Marnov, Maksym",
+      "affiliation": "Independent Researcher",
+      "orcid": ""
+    }
+  ],
+  "title": "Corpus of Axioms & Laws — Fractal Paradigm",
+  "description": "A comprehensive collection of axioms and laws forming the Fractal Paradigm framework for understanding consciousness, reality, and universal principles.",
+  "keywords": [
+    "fractal paradigm",
+    "axioms",
+    "laws",
+    "consciousness",
+    "physics",
+    "philosophy"
+  ],
+  "license": {
+    "id": "CC-BY-NC-SA-4.0"
+  },
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "10.5281/zenodo.16898520"
+    }
+  ],
+  "version": "1.0.0"
+}
+# Axioms
+
+**License:** Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)  
+**DOI:** [10.5281/zenodo.16898520](https://zenodo.org/record/16898520)
+
+## A1. Axiom of Reason
+**Key formula:** Consciousness = Thinking + Ethics + Responsibility.  
+**Explanation:** The triad generates Action, Decision making, and even Thought.  
+**Note:** Responsibility is a derivative of ethics; without one of the parts, the triad collapses.
+
+[Остальное содержание аксиом...]
