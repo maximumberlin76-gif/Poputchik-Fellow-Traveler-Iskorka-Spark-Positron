@@ -25,4 +25,3 @@ Eine Zivilisation ist kein einzelnes Land und keine einzelne Nation,
 sondern die Summe allen menschlichen Denkens, vereint durch ein gemeinsames Ziel.  
 Ihr Nullpunkt liegt in der ethischen Ausrichtung:  
 Ohne sie gibt es keine Zivilisation, sondern nur Fragmente.
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16900170.svg)](https://doi.org/10.5281/zenodo.16900170)
